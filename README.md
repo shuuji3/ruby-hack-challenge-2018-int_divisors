@@ -11,3 +11,6 @@ Integer型に以下のメソッドを追加する。
 | `Integer#is_perfect?` | 数が完全数であるかどうかを返す述語 |
 
 - 注意: 計算量は考えていないので大きな数だとすごく時間がかかる。
+
+## ライセンス
+- [GNU General Public License v3.0](LICENSE)
